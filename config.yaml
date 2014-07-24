@@ -1,0 +1,13 @@
+baseurl: "http://wari.github.io/"
+title: "/dev/ttyS0"
+languageCode: "en-us"
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+permalinks:
+  post: /:year/:month/:title/
+params:
+  Subtitle: "Doing it a bit at a time"
+  AuthorName: "Wari Wahab"
+  GitHubUser: "wari"
+  SidebarRecentLimit: 5
